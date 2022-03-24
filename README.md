@@ -1,2 +1,2 @@
-# template-all
-A Gitpod multi-repo workspace for all template-* repositories.
+# template-clean
+A clean gitpod workspace template.
