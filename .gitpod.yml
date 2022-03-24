@@ -1,0 +1,3 @@
+tasks:
+  - init: rm -rf .git
+    command: echo "Cleaned workspace"
